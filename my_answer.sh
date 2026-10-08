@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Elbertson"
+echo "Jeremy Elbertson"
