@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Jeremy Elbertson"
+echo "Joe Germuska"
