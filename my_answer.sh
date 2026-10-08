@@ -1,1 +1,1 @@
-echo "Joe Germusk"
+echo "Joe Germuska"
